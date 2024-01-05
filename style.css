@@ -1,0 +1,12 @@
+td,th{
+    border: 2px solid black;
+    padding: 20px 30px;
+    background: silver;
+    font-size: 20px;
+    font-weight: 900;
+    text-wrap: nowrap;
+   
+}
+table{
+    border-collapse: collapse;
+}
